@@ -171,7 +171,7 @@ In the competitive restaurant industry, understanding factors influencing busine
 
 ## Elite vs. Non-Elite Users
 
-<img src="img/piechart.png" width="700" height="400">
+<img src="img/piechart.png" width="700" height="500">
 
 - Yelp Elite users, though smaller in number, contribute significantly to total review counts.
 - Establishing relationships with elite users can:
