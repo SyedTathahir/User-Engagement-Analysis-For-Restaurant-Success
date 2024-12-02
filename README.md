@@ -156,7 +156,7 @@ In the competitive restaurant industry, understanding factors influencing busine
 ---
 ## How does the sentiment of reviews and tips (useful, funny, cool) correlate with the success metrics of restaurants?
 
-<img src="img/successmetrics.png" width="500" height="500">
+<img src="img/successmetrics.png" width="700" height="700">
 
 - “Useful”, “Funny”, and “Cool” are attributes associated with user reviews. They represent the feedback provided by users about the usefulness, humor, or coolness of a particular review.
 - Higher counts of useful, funny, and cool reviews suggest greater user engagement and satisfaction.
