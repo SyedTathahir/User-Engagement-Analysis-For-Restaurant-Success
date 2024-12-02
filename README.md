@@ -140,6 +140,10 @@ In the competitive restaurant industry, understanding factors influencing busine
 - High-rated restaurants maintain steady or growing engagement, reflecting sustained customer interest and satisfaction.
 
 ### Trend and Seasonality Analysis
+<div style="display: flex; justify-content: space-between;">
+   <img src="img/tipcount.png" width="400" height="200">
+   <img src="img/.png" width="400" height="200">
+</div>
 - Engagement follows seasonal patterns, with peaks between **November and March**.
 - Evening hours from **4 PM to 1 AM** are the busiest for restaurants, driven by:
   - Work schedules
