@@ -144,11 +144,14 @@ In the competitive restaurant industry, understanding factors influencing busine
    <img src="img/tipcount.png" width="400" height="200">
    <img src="img/upwardtrend.png" width="400" height="200">
 </div>
+
 - Engagement follows seasonal patterns, with peaks between **November and March**.
 - Evening hours from **4 PM to 1 AM** are the busiest for restaurants, driven by:
   - Work schedules
   - Social gatherings
   - Leisure activities
+- **Downward Trend**: The year starting and ending (Nov - Mar) shows a highly engaging period.
+- **Upward Trend**: Trends indicate that restaurants experience an increase in engagement during these months.
 
 ---
 
