@@ -68,11 +68,6 @@ In the competitive restaurant industry, understanding factors influencing busine
 - Time-series plots to explore trends in user engagement.
 - Sentiment analysis charts to highlight the impact of positive reviews.
 
-# Restaurant Success Analysis Using Yelp Data
-
-## Problem Statement
-Understanding what drives business success in the competitive restaurant industry is critical for stakeholders. This analysis utilizes Yelp data to explore the dynamics of user engagement, including reviews, tips, and check-ins, and their relationship with key success metrics like review count and ratings.
-
 ---
 
 ## Key Insights
