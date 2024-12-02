@@ -118,7 +118,9 @@ In the competitive restaurant industry, understanding factors influencing busine
 
 ---
 ## How do the success metrics of restaurants vary across different states and cities?
-<img src="img/across_states.png" width="400" height="200">
+
+<img src="img/across_states.png" width="700" height="300">
+
 - Philadelphia emerges as the top city with the highest success score, indicating a combination of high ratings and active user engagement.
 - Following Philadelphia, Tampa, Indianapolis, and Tucson rank among the top cities with significant success scores.
 - These rankings suggest thriving restaurant scenes in these areas.
