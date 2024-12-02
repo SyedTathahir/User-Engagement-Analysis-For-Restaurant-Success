@@ -98,6 +98,7 @@ In the competitive restaurant industry, understanding factors influencing busine
 ---
 
 ## Correlation Between Reviews, Tips, and Check-ins
+<img src="img/correlation_review_checkin.png" width="750" height="300">
 - User engagement across different platforms (reviews, tips, and check-ins) is strongly interlinked.
 - Higher activity in one metric tends to drive increases in others.
 - **Recommendation**: Businesses should focus on strategies that boost all types of user engagement to enhance overall visibility and customer interaction.
