@@ -35,7 +35,7 @@ The dataset contains information on businesses, reviews, users, tips, and check-
 
 ### Key Metrics
 <div style="text-align: center;">
-  <img src="img/Analysis_and_findings.png" alt="Key Metrics" style="width: 80%; max-width: 500px; height: auto;">
+  <img src="img/Analysis_and_findings.png" alt="Key Metrics" style="width: 40%; max-width: 500px; height: auto;">
 </div>
 
 - Out of 150,000 businesses, 35,000 are restaurant businesses that are currently open.
