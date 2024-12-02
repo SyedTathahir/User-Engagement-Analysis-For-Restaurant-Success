@@ -122,13 +122,6 @@ In the competitive restaurant industry, understanding factors influencing busine
 - Philadelphia emerges as the top city with the highest success score, indicating a combination of high ratings and active user engagement.
 - Following Philadelphia, Tampa, Indianapolis, and Tucson rank among the top cities with significant success scores.
 - These rankings suggest thriving restaurant scenes in these areas.
-## Geographical Success Metrics
-- **Top City**: Philadelphia ranks highest in success scores, with a combination of high ratings and active user engagement.
-- Other cities with significant success scores include:
-  - Tampa
-  - Indianapolis
-  - Tucson
-- These cities represent thriving restaurant ecosystems and potential growth opportunities.
 
 ---
 
