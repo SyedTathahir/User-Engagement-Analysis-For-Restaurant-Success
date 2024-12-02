@@ -42,7 +42,7 @@ The dataset contains information on businesses, reviews, users, tips, and check-
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="img/highestrating.png" alt="Highest Ratings" style="width: 45%; max-width: 250px; height: auto;">
-  <img src="img/highesreview.png" alt="Highest Reviews" style="width: 45%; max-width: 200px; height: auto;">
+  <img src="img/highesreview.png" alt="Highest Reviews" style="width: 40%; max-width: 200px; height: auto;">
 </div>
 
 ---
