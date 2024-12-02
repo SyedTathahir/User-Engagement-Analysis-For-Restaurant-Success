@@ -185,12 +185,20 @@ In the competitive restaurant industry, understanding factors influencing busine
 - Despite being significantly fewer in number, elite users contribute a substantial proportion of the total review count compared to non-elite users.
 - Establishing a positive relationship with elite users can lead to repeat visits and loyalty, as they are more likely to continue supporting businesses they have had good experiences with.
 ---
-
 ## Busiest Hours
+
+<img src="img/busiesthours.png" width="700" height="500">
+
 - Peak engagement hours for restaurants are between **4 PM and 1 AM**.
 - **Recommendations**:
   - Optimize staffing levels and resources during these hours.
   - Introduce special promotions to capitalize on the increased demand.
+
+### Busiest Hours Analysis
+
+- The busiest hours for restaurants, based on user engagement, span from **4 PM to 1 AM**.
+- Knowing the peak hours allows businesses to optimize their staffing levels and resource allocation during these times to ensure efficient operations and quality service delivery.
+- The concentration of user engagement during the evening and night hours suggests a higher demand for dining out during these times, potentially driven by factors such as work schedules, social gatherings, and leisure activities.
 
 ---
 
