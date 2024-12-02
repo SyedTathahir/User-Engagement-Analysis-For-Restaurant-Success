@@ -80,12 +80,10 @@ In the competitive restaurant industry, understanding factors influencing busine
    <figure style="position: relative;">
      <h3 style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); margin: 0;">Highest Rating</h3>
      <img src="img/highestrating.png" width="300" height="300">
-     <figcaption>Highest Rating</figcaption>
    </figure>
    <figure style="position: relative;">
      <h3 style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); margin: 0;">Highest Review Count</h3>
      <img src="img/highesreview.png" width="300" height="300">
-     <figcaption>Highest Review Count</figcaption>
    </figure>
 </div>
 
