@@ -76,13 +76,6 @@ In the competitive restaurant industry, understanding factors influencing busine
 
 - Out of 150,000 businesses, 35,000 are restaurant businesses that are currently open.
 
-# Analysis and Findings
-
-## Key Metrics:
-<img src="img/Analysis_and_findings.png" width="300" height="300">
-
-- Out of 150,000 businesses, 35,000 are restaurant businesses that are currently open.
-
 <div style="display: flex; justify-content: space-between;">
    <img src="img/highestrating.png" width="300" height="300">
    <img src="img/highesreview.png" width="300" height="300">
@@ -92,11 +85,6 @@ In the competitive restaurant industry, understanding factors influencing busine
   - Higher ratings do not guarantee a higher review count, or vice versa.
   - The success of restaurants is not solely determined by ratings or review counts.
   - Review counts reflect user engagement but not necessarily overall customer satisfaction or business performance.
-- **Distribution of business success metrics** (review count and average rating) highlights that:
-  - Higher ratings do not guarantee a higher review count, or vice versa.
-  - The success of restaurants is not solely determined by ratings or review counts.
-  - Review counts reflect user engagement but not necessarily overall customer satisfaction or business performance.
-
 ---
 
 ## Do Restaurants with Higher Engagement Tend to Have Higher Ratings?
