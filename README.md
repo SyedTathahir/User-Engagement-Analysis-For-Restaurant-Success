@@ -35,14 +35,14 @@ The dataset contains information on businesses, reviews, users, tips, and check-
 
 ### Key Metrics
 <div style="text-align: center;">
-  <img src="img/Analysis_and_findings.png" alt="Key Metrics" style="max-width: 100%; height: auto;">
+  <img src="img/Analysis_and_findings.png" alt="Key Metrics" style="width: 80%; max-width: 500px; height: auto;">
 </div>
 
 - Out of 150,000 businesses, 35,000 are restaurant businesses that are currently open.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="img/highestrating.png" alt="Highest Ratings" style="max-width: 45%; height: auto;">
-  <img src="img/highesreview.png" alt="Highest Reviews" style="max-width: 45%; height: auto;">
+  <img src="img/highestrating.png" alt="Highest Ratings" style="width: 45%; max-width: 250px; height: auto;">
+  <img src="img/highesreview.png" alt="Highest Reviews" style="width: 45%; max-width: 250px; height: auto;">
 </div>
 
 ---
