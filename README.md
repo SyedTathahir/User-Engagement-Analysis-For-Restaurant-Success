@@ -105,7 +105,12 @@ In the competitive restaurant industry, understanding factors influencing busine
 - **Recommendation**: Businesses should focus on strategies that boost all types of user engagement to enhance overall visibility and customer interaction.
 
 ---
+## Is there a difference in the user engagement between high-rated and low-rated businesses?
+<img src="img/difference.png" width="200" height="300">
 
+- Data indicates a clear correlation between higher ratings and increased user engagement across reviews, tips, and check-ins.
+- This pattern underscores the importance of maintaining high service and quality standards, as these appear to drive more reviews, check-ins, and tips.
+- These metrics (reviews, check-ins, and tips) are critical for customer engagement and satisfaction.
 ## Engagement Differences Between High-Rated and Low-Rated Businesses
 - Data shows a clear correlation between higher ratings and increased user engagement.
 - Higher-rated businesses consistently drive more reviews, tips, and check-ins.
