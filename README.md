@@ -117,7 +117,11 @@ In the competitive restaurant industry, understanding factors influencing busine
 - **Insight**: Maintaining high service and quality standards drives critical engagement metrics like reviews and customer satisfaction.
 
 ---
-
+## How do the success metrics of restaurants vary across different states and cities?
+<img src="img/across_states.png" width="400" height="200">
+- Philadelphia emerges as the top city with the highest success score, indicating a combination of high ratings and active user engagement.
+- Following Philadelphia, Tampa, Indianapolis, and Tucson rank among the top cities with significant success scores.
+- These rankings suggest thriving restaurant scenes in these areas.
 ## Geographical Success Metrics
 - **Top City**: Philadelphia ranks highest in success scores, with a combination of high ratings and active user engagement.
 - Other cities with significant success scores include:
