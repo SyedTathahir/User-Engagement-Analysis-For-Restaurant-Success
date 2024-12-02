@@ -72,13 +72,13 @@ In the competitive restaurant industry, understanding factors influencing busine
 # Analysis and Findings
 
 ## Key Metrics:
-<img src="img/Analysis_and_findings.png" width="300" height="300">
+<img src="img/Analysis_and_findings.png" width="300" height="300" style="border: 2px solid black;">
 
 - Out of 150,000 businesses, 35,000 are restaurant businesses that are currently open.
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="img/highestrating.png" width="300" height="300">
-   <img src="img/highesreview.png" width="300" height="300">
+   <img src="img/highestrating.png" width="300" height="300" style="border: 2px solid black;">
+   <img src="img/highesreview.png" width="300" height="300" style="border: 2px solid black;">
 </div>
 
 - **Distribution of business success metrics** (review count and average rating) highlights that:
