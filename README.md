@@ -76,17 +76,16 @@ In the competitive restaurant industry, understanding factors influencing busine
 
 - Out of 150,000 businesses, 35,000 are restaurant businesses that are currently open.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-   <figure style="position: relative;">
-     <h3 style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); margin: 0;">Highest Rating</h3>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+   <figure style="position: relative; width: 300px;">
+     <h3 style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); margin: 0; color: white;">Highest Rating</h3>
      <img src="img/highestrating.png" width="300" height="300">
    </figure>
-   <figure style="position: relative;">
-     <h3 style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); margin: 0;">Highest Review Count</h3>
+   <figure style="position: relative; width: 300px;">
+     <h3 style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); margin: 0; color: white;">Highest Review Count</h3>
      <img src="img/highesreview.png" width="300" height="300">
    </figure>
 </div>
-
 - **Distribution of business success metrics** (review count and average rating) highlights that:
   - Higher ratings do not guarantee a higher review count, or vice versa.
   - The success of restaurants is not solely determined by ratings or review counts.
