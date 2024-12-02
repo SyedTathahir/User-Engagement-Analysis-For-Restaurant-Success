@@ -170,12 +170,20 @@ In the competitive restaurant industry, understanding factors influencing busine
 ---
 
 ## Elite vs. Non-Elite Users
+
+<img src="img/piechart.png" width="700" height="400">
+
 - Yelp Elite users, though smaller in number, contribute significantly to total review counts.
 - Establishing relationships with elite users can:
   - Enhance loyalty
   - Drive repeat visits
   - Amplify promotional efforts
 
+## Is there any difference in engagement of elite users and non-elite users?
+
+- Elite users are individuals who have been recognized and awarded the "Elite" status by Yelp for their active and high-quality contributions.
+- Despite being significantly fewer in number, elite users contribute a substantial proportion of the total review count compared to non-elite users.
+- Establishing a positive relationship with elite users can lead to repeat visits and loyalty, as they are more likely to continue supporting businesses they have had good experiences with.
 ---
 
 ## Busiest Hours
