@@ -79,7 +79,7 @@ In the competitive restaurant industry, understanding factors influencing busine
    <img src="img/highestrating.png" width="300" height="300">
    <img src="img/highesreview.png" width="300" height="300">
    </div>
-- Distribution of business success metrics (review count and average rating) highlights that:
+- **Distribution of business success metrics** (review count and average rating) highlights that:
   - Higher ratings do not guarantee a higher review count, or vice versa.
   - The success of restaurants is not solely determined by ratings or review counts.
   - Review counts reflect user engagement but not necessarily overall customer satisfaction or business performance.
