@@ -88,7 +88,7 @@ In the competitive restaurant industry, understanding factors influencing busine
 ---
 
 ## Do Restaurants with Higher Engagement Tend to Have Higher Ratings?
-<img src="img/engagementbar.png" width="300" height="300">
+<img src="img/engagementbar.png" width="300" height="500">
 - Data reveals a general increase in average reviews, check-ins, and tip counts as ratings improve from 1 to 4 stars.
 - Restaurants rated 4 stars exhibit the highest engagement but show a downward trend for ratings above 4.
 - The drop in engagement at 5.0 stars might suggest:
