@@ -172,9 +172,11 @@ In the competitive restaurant industry, understanding factors influencing busine
 <div style="text-align: center;">
   <img src="img/successmetrics.png" alt="Success Metrics" style="max-width: 100%; height: auto; aspect-ratio: 1 / 1;">
 </div>
+
 - “Useful”, “Funny”, and “Cool” are attributes associated with user reviews. They represent the feedback provided by users about the usefulness, humor, or coolness of a particular review.
 - Higher counts of useful, funny, and cool reviews suggest greater user engagement and satisfaction.
 - These factors (useful, funny, and cool reviews) are key contributors to a restaurant's success.
+
 
 ## Sentiment Analysis
 
@@ -182,12 +184,12 @@ In the competitive restaurant industry, understanding factors influencing busine
 - Higher counts of these attributes strongly correlate with restaurant success.
 
 ---
-
 ## Elite vs. Non-Elite Users
 
 <div style="text-align: center;">
   <img src="img/piechart.png" alt="Pie Chart" style="max-width: 100%; height: auto; aspect-ratio: 7 / 3;">
 </div>
+
 - Yelp Elite users, though smaller in number, contribute significantly to total review counts.
 - Establishing relationships with elite users can:
   - Enhance loyalty
