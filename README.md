@@ -200,7 +200,9 @@ In the competitive restaurant industry, understanding factors influencing busine
 ---
 ## Busiest Hours
 
-<img src="img/busiesthours.png" width="700" height="500">
+<div style="text-align: center;">
+  <img src="img/busiesthours.png" alt="Busiest Hours" style="max-width: 100%; height: auto; aspect-ratio: 7 / 5;">
+</div>
 
 - Peak engagement hours for restaurants are between **4 PM and 1 AM**.
 - **Recommendations**:
