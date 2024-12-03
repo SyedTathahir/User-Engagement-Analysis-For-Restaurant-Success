@@ -34,7 +34,7 @@ In the competitive restaurant industry, understanding factors influencing busine
 
 ## **Database Creation**
 <div style="text-align: center;">
-  <img src="img/restaurant_database.png" alt="Restaurant Database" style="max-width: 100%; height: auto; aspect-ratio: 7 / 5;">
+  <img src="img/restaurant_database.png" alt="Restaurant Database" style="max-width: 80%; height: auto; aspect-ratio: 7 / 5;">
 </div>
 
 ### **Dataset Details**
@@ -128,7 +128,9 @@ In the competitive restaurant industry, understanding factors influencing busine
 ---
 ## How do the success metrics of restaurants vary across different states and cities?
 
-<img src="img/across_states.png" width="700" height="300">
+<div style="text-align: center;">
+  <img src="img/across_states.png" alt="Success Metrics Across States" style="max-width: 100%; height: auto; aspect-ratio: 7 / 3;">
+</div>
 
 - Philadelphia emerges as the top city with the highest success score, indicating a combination of high ratings and active user engagement.
 - Following Philadelphia, Tampa, Indianapolis, and Tucson rank among the top cities with significant success scores.
