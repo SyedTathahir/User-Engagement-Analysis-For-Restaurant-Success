@@ -33,7 +33,9 @@ In the competitive restaurant industry, understanding factors influencing busine
 ---
 
 ## **Database Creation**
-<img src="img/restaurant_database.png" width="700" height="500">
+<div style="text-align: center;">
+  <img src="img/restaurant_database.png" alt="Restaurant Database" style="max-width: 100%; height: auto; aspect-ratio: 7 / 5;">
+</div>
 
 ### **Dataset Details**
 - The dataset contains information on businesses, reviews, users, tips, and check-ins across 8 metropolitan areas in the USA and Canada.
