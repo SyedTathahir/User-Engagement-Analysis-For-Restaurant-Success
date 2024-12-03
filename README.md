@@ -111,7 +111,9 @@ In the competitive restaurant industry, understanding factors influencing busine
 
 ---
 ## Is there a difference in the user engagement between high-rated and low-rated businesses?
-<img src="img/difference.png" width="400" height="200">
+<div style="text-align: center;">
+  <img src="img/difference.png" alt="Engagement Differences" style="max-width: 100%; height: auto;">
+</div>
 
 - Data indicates a clear correlation between higher ratings and increased user engagement across reviews, tips, and check-ins.
 - This pattern underscores the importance of maintaining high service and quality standards, as these appear to drive more reviews, check-ins, and tips.
