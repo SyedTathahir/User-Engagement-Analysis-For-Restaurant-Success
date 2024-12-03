@@ -249,6 +249,7 @@ In summary, the success of a restaurant is multifaceted, influenced by a combina
 1. Clone this repository:
    ```bash
    git clone https://github.com/SyedTathahir/Yelp-Analysis-Project.git
+   ```
 
 
 
