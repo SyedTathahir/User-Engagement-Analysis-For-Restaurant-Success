@@ -139,8 +139,9 @@ In the competitive restaurant industry, understanding factors influencing busine
 ---
 
 ## Are there any patterns in user engagement over time for successful businesses compared to less successful ones?
-<img src="img/patternsuserengagement.png" width="700" height="300">
-
+<div style="text-align: center;">
+  <img src="img/patternsuserengagement.png" alt="User Engagement Patterns" style="max-width: 100%; height: auto; aspect-ratio: 7 / 3;">
+</div>
 - **Drop due to COVID**: Successful businesses, particularly those with higher ratings (above 3.5), exhibit consistent and possibly increasing user engagement over time.
 - High-rated restaurants maintain a steady or growing level of user engagement over time.
 - This trend reflects ongoing customer interest and satisfaction.
