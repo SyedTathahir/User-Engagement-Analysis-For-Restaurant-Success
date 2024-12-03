@@ -112,7 +112,7 @@ In the competitive restaurant industry, understanding factors influencing busine
 ---
 ## Is there a difference in the user engagement between high-rated and low-rated businesses?
 <div style="text-align: center;">
-  <img src="img/difference.png" alt="Engagement Differences" style="max-width: 100%; height: auto;">
+  <img src="img/difference.png" alt="Engagement Differences" style="max-width: 80%; height: auto;">
 </div>
 
 - Data indicates a clear correlation between higher ratings and increased user engagement across reviews, tips, and check-ins.
